@@ -1,0 +1,17 @@
+{
+  "name": "firewall-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "challenge.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "needle": "^3.3.1",
+    "refactor-plugin-common": "^2.0.1",
+    "shift-refactor": "^2.0.0"
+  }
+}
